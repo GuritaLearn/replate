@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Replate
 
 ## Overview
@@ -18,3 +19,6 @@ Replate connects everyday consumers, businesses/UMKM, and partner organizations 
     *   **RePoin:** A reward system incentivizing users who save and donate food.
 *   **Safety & Disputes**
     *   Built-in dispute system for handling expired or spoiled items upon delivery.
+=======
+# replate
+>>>>>>> 8dfaff7d20433d3d61b5e5473457e24189981290
