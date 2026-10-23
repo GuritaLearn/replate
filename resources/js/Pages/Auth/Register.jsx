@@ -142,6 +142,8 @@ export default function Register() {
                     {processing ? 'Memproses...' : 'Daftar'}
                 </button>
 
+                {/* Google SSO disembunyikan sementara untuk testing/demo lokal */}
+                {/*
                 <div className="relative my-4">
                     <div className="absolute inset-0 flex items-center">
                         <div className="w-full border-t border-gray-200" />
@@ -177,6 +179,7 @@ export default function Register() {
                     </svg>
                     <span>Daftar dengan Google</span>
                 </a>
+                */}
 
                 {/* Link ke Halaman Login */}
                 <p className="text-center text-sm text-gray-500 pt-2">
